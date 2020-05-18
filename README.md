@@ -48,4 +48,4 @@
  
 ## 시연 영상
 
-[![Video Label]](https://youtu.be/QuPwOkngWXM)
+[![Video Label]()](https://youtu.be/QuPwOkngWXM)
