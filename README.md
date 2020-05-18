@@ -46,4 +46,6 @@
 
 ![KakaoTalk_20200518_204843870_01](https://user-images.githubusercontent.com/49268465/82210138-6d155b80-9949-11ea-943d-d512e8765aa2.jpg)
  
-<iframe width="640" height="360" src="https://youtu.be/QuPwOkngWXM" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+## 시연 영상
+
+https://youtu.be/QuPwOkngWXM
