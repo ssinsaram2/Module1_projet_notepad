@@ -45,8 +45,7 @@
 ![KakaoTalk_20200518_204843870_02](https://user-images.githubusercontent.com/49268465/82210121-671f7a80-9949-11ea-8233-04f874d151f9.jpg)
 
 ![KakaoTalk_20200518_204843870_01](https://user-images.githubusercontent.com/49268465/82210138-6d155b80-9949-11ea-943d-d512e8765aa2.jpg)
- 
-## 시연 영상
 
-[![Video Label]()](https://youtu.be/QuPwOkngWXM)
+#시연 영상
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/QuPwOkngWXM)
 
