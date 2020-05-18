@@ -48,4 +48,5 @@
  
 ## 시연 영상
 
-[![Video Label](https://img.youtube.com/vi/RlQEoJaLQRA/0.jpg)](https://youtu.be/QuPwOkngWXM)
+[![Video Label]()](https://youtu.be/QuPwOkngWXM)
+
